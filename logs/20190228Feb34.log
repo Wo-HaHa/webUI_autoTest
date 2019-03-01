@@ -1,0 +1,32 @@
+2019-02-28 20:34:44,006 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 20:34:44,006 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 20:34:46,604 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 20:34:54,037 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 20:34:55,160 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 20:34:55,163 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 20:34:55,422 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:34:55,422 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:34:55,660 - basepage - INFO - 输入内容19960618
+2019-02-28 20:34:55,660 - basepage - INFO - 输入内容19960618
+2019-02-28 20:34:55,847 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:34:55,847 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:35:21,136 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:21,136 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:33,126 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:33,126 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:45,781 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:45,781 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:35:46,016 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:35:46,016 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:35:46,217 - basepage - INFO - 输入内容买华为
+2019-02-28 20:35:46,217 - basepage - INFO - 输入内容买华为
+2019-02-28 20:35:46,403 - basepage - INFO - 输入内容买小米
+2019-02-28 20:35:46,403 - basepage - INFO - 输入内容买小米
+2019-02-28 20:35:46,588 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:35:46,588 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:35:46,869 - basepage - INFO - the element 发起投票 was clicked
+2019-02-28 20:35:46,869 - basepage - INFO - the element 发起投票 was clicked
+2019-02-28 20:35:59,046 - basepage - INFO - the element  was clicked
+2019-02-28 20:35:59,046 - basepage - INFO - the element  was clicked
+2019-02-28 20:36:11,549 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:36:11,549 - basepage - INFO - had take and save to folder : /screenshots

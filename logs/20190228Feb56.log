@@ -1,0 +1,8 @@
+2019-02-28 16:56:25,036 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 16:56:25,037 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 16:56:27,570 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 16:56:30,578 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 16:56:31,700 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 16:56:31,703 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 16:56:32,072 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 16:56:32,072 - basepage - ERROR - <pageobjects_luntan.luntan_homepage_login.Login object at 0x02E8D170>Ò³ÖÐÎ´ÕÒµ½('id', 'ls_username')ÔªËØ

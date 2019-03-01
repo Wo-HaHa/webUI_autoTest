@@ -1,0 +1,32 @@
+2019-02-28 20:25:45,228 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 20:25:45,228 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 20:25:47,960 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 20:25:55,165 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 20:25:56,281 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 20:25:56,284 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 20:25:56,483 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:25:56,483 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:25:56,683 - basepage - INFO - 输入内容19960618
+2019-02-28 20:25:56,683 - basepage - INFO - 输入内容19960618
+2019-02-28 20:25:56,856 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:25:56,856 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:26:23,711 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:23,711 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:43,827 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:43,827 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:55,671 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:55,671 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:26:55,897 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:26:55,897 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:26:56,104 - basepage - INFO - 输入内容买华为
+2019-02-28 20:26:56,104 - basepage - INFO - 输入内容买华为
+2019-02-28 20:26:56,290 - basepage - INFO - 输入内容买小米
+2019-02-28 20:26:56,290 - basepage - INFO - 输入内容买小米
+2019-02-28 20:26:56,475 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:26:56,475 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:26:56,752 - basepage - INFO - the element 发起投票 was clicked
+2019-02-28 20:26:56,752 - basepage - INFO - the element 发起投票 was clicked
+2019-02-28 20:27:19,662 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:27:19,662 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:27:19,662 - basepage - ERROR - <pageobjects_luntan_4.luntan_homepage_public_vote.Public object at 0x02FB4A30>页中未找到('id', 'ls_username')元素
+2019-02-28 20:27:19,662 - basepage - ERROR - <pageobjects_luntan_4.luntan_homepage_public_vote.Public object at 0x02FB4A30>页中未找到('id', 'ls_username')元素

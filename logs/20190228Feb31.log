@@ -1,0 +1,42 @@
+2019-02-28 19:31:03,198 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 19:31:03,198 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 19:31:05,818 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 19:31:07,199 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 19:31:08,331 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 19:31:08,331 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 19:31:08,591 - basepage - INFO - 输入内容sunkai
+2019-02-28 19:31:08,823 - basepage - INFO - 输入内容19960618
+2019-02-28 19:31:09,006 - basepage - INFO - the element 登录 was clicked
+2019-02-28 19:31:12,748 - basepage - INFO - 输入内容title
+2019-02-28 19:31:13,074 - basepage - INFO - 输入内容12345648789
+2019-02-28 19:31:13,368 - basepage - INFO - the element 发表帖子 was clicked
+2019-02-28 19:31:15,225 - basepage - INFO - the element  was clicked
+2019-02-28 19:31:15,686 - basepage - INFO - 输入内容nice!!!!!!!!!!
+2019-02-28 20:31:30,399 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 20:31:30,399 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 20:31:32,908 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 20:31:40,451 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 20:31:41,577 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 20:31:41,579 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 20:31:41,809 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:31:41,809 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:31:42,023 - basepage - INFO - 输入内容19960618
+2019-02-28 20:31:42,023 - basepage - INFO - 输入内容19960618
+2019-02-28 20:31:42,198 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:31:42,198 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:32:08,476 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:08,476 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:21,651 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:21,651 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:33,613 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:33,613 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:32:33,848 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:32:33,848 - basepage - INFO - 输入内容手机投票
+2019-02-28 20:32:34,052 - basepage - INFO - 输入内容买华为
+2019-02-28 20:32:34,052 - basepage - INFO - 输入内容买华为
+2019-02-28 20:32:34,238 - basepage - INFO - 输入内容买小米
+2019-02-28 20:32:34,238 - basepage - INFO - 输入内容买小米
+2019-02-28 20:32:34,427 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:32:34,427 - basepage - INFO - 输入内容买苹果
+2019-02-28 20:32:34,719 - basepage - INFO - the element 发起投票 was clicked
+2019-02-28 20:32:34,719 - basepage - INFO - the element 发起投票 was clicked

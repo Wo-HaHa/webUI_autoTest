@@ -1,0 +1,23 @@
+2019-02-28 20:11:12,873 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 20:11:12,873 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 20:11:15,630 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 20:11:17,687 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 20:11:18,816 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 20:11:18,816 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 20:11:19,055 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:11:19,242 - basepage - INFO - 输入内容19960618
+2019-02-28 20:11:19,409 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:11:21,541 - basepage - INFO - the element  was clicked
+2019-02-28 20:11:21,918 - basepage - INFO - the element 删除 was clicked
+2019-02-28 20:11:23,498 - basepage - INFO - the element 管理中心 was clicked
+2019-02-28 20:11:34,729 - basepage - INFO - the element 论坛 was clicked
+2019-02-28 20:11:35,454 - basepage - INFO - the element 添加新版块 was clicked
+2019-02-28 20:11:39,355 - basepage - INFO - 输入内容lixiuzhi
+2019-02-28 20:11:39,567 - basepage - INFO - 输入内容19970803
+2019-02-28 20:11:39,776 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:11:43,061 - basepage - INFO - 输入内容1234568789
+2019-02-28 20:11:43,319 - basepage - INFO - 输入内容hahahahahahaha
+2019-02-28 20:11:43,582 - basepage - INFO - the element 发表帖子 was clicked
+2019-02-28 20:11:45,518 - basepage - INFO - the element  was clicked
+2019-02-28 20:11:45,913 - basepage - INFO - 输入内容good!!!!!!!!!!
+2019-02-28 20:11:46,324 - basepage - INFO - the element 参与/回复主题 was clicked

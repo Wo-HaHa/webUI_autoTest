@@ -1,0 +1,32 @@
+2019-02-28 17:15:07,908 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 17:15:07,908 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 17:15:10,704 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 17:15:11,957 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 17:15:13,090 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 17:15:13,093 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 17:15:13,287 - basepage - INFO - 输入内容sunkai
+2019-02-28 17:15:13,483 - basepage - INFO - 输入内容19960618
+2019-02-28 17:15:13,651 - basepage - INFO - the element 登录 was clicked
+2019-02-28 17:15:15,870 - basepage - INFO - the element  was clicked
+2019-02-28 17:15:17,844 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 17:15:18,085 - basepage - INFO - 输入内容haotest
+2019-02-28 17:15:18,285 - basepage - INFO - the element  was clicked
+2019-02-28 17:15:19,142 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 17:15:19,379 - basepage - INFO - the element haotest was clicked
+2019-02-28 17:15:21,163 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:15:38,646 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 20:15:38,677 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 20:15:41,236 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 20:15:43,019 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 20:15:44,179 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 20:15:44,179 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 20:15:44,394 - basepage - INFO - 输入内容sunkai
+2019-02-28 20:15:44,602 - basepage - INFO - 输入内容19960618
+2019-02-28 20:15:44,778 - basepage - INFO - the element 登录 was clicked
+2019-02-28 20:15:47,997 - basepage - INFO - the element  was clicked
+2019-02-28 20:15:49,868 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:15:50,080 - basepage - INFO - 输入内容haotest
+2019-02-28 20:15:50,252 - basepage - INFO - the element  was clicked
+2019-02-28 20:15:51,094 - basepage - INFO - had take and save to folder : /screenshots
+2019-02-28 20:15:51,293 - basepage - INFO - the element haotest was clicked
+2019-02-28 20:15:53,359 - basepage - INFO - had take and save to folder : /screenshots

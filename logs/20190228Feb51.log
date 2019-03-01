@@ -1,0 +1,14 @@
+2019-02-28 19:51:38,635 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 19:51:38,635 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 19:51:41,379 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 19:51:43,415 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 19:51:44,561 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 19:51:44,561 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 19:51:44,786 - basepage - INFO - 输入内容sunkai
+2019-02-28 19:51:44,993 - basepage - INFO - 输入内容19960618
+2019-02-28 19:51:45,171 - basepage - INFO - the element 登录 was clicked
+2019-02-28 19:51:59,572 - basepage - INFO - 输入内容title
+2019-02-28 19:51:59,831 - basepage - INFO - 输入内容12345648789
+2019-02-28 19:52:00,098 - basepage - INFO - the element 发表帖子 was clicked
+2019-02-28 19:52:12,431 - basepage - INFO - the element  was clicked
+2019-02-28 19:52:12,856 - basepage - INFO - 输入内容nice!!!!!!!!!!

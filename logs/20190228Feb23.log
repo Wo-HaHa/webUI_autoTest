@@ -1,0 +1,9 @@
+2019-02-28 19:23:05,667 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 19:23:05,667 - BrowserEngine - INFO - The test server url is: http://127.0.0.1:81/forum.php
+2019-02-28 19:23:08,243 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 19:23:10,347 - BrowserEngine - INFO - open url:http://127.0.0.1:81/forum.php
+2019-02-28 19:23:11,523 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 19:23:11,523 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 19:23:11,745 - basepage - INFO - 输入内容sunkai
+2019-02-28 19:23:11,950 - basepage - INFO - 输入内容19960618
+2019-02-28 19:23:12,137 - basepage - INFO - the element 登录 was clicked
